@@ -1,0 +1,1 @@
+This is file line of code into NewFile2
